@@ -1,6 +1,1 @@
-# jasonvenn.github.io
-
-
-
-* 已遷新址： *
-* [https://hulenkius.github.io](https://hulenkius.github.io) *
+# 部落格已搬遷至 hulenkius.github.io
